@@ -9,7 +9,7 @@ Je suis développeuse passionnée par le web, l'équitation, et tout ce qui touc
 
 ## 📊 Statistiques GitHub
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=maelys&show_icons=true&theme=radical)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=maelysami&show_icons=true&theme=radical)
 
 ## 📱 Me contacter
 
