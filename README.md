@@ -1,16 +1,17 @@
-## Hi there 👋
+# Salut, je suis Maëlys 👋
 
-<!--
-**Maelysami/Maelysami** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Je suis développeuse passionnée par le web, l'équitation, et tout ce qui touche à la technologie. 
 
-Here are some ideas to get you started:
+## 🚀 Mes projets
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- [Projet 1](https://github.com/maelys/projet1)
+- [Projet 2](https://github.com/maelys/projet2)
+
+## 📊 Statistiques GitHub
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=maelys&show_icons=true&theme=radical)
+
+## 📱 Me contacter
+
+- [Twitter](https://twitter.com/moncompte)
+- [LinkedIn](https://www.linkedin.com/in/moncompte)
